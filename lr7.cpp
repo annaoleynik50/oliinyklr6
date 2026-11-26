@@ -17,6 +17,7 @@ int main()
             cout << setw(10) << "x=" << x << setw(10) << "y=" << y << endl;
             x += h;
         } while (x <= b + 0.1);*/
+    cout << "Змінено код";
     system("pause");
     return 0;
 }
